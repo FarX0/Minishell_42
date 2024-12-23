@@ -1,0 +1,2 @@
+tfalchi@c1r6p3:~/esercizi/minishell$ echo $21
+1
